@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/amadr/sortieralgorithmen/badge/main)](https://www.codefactor.io/repository/github/amadr/sortieralgorithmen/overview/main)
+
 # Sortieralgorithmen
 Visualisierung der Sortieralgorithmen, Bubble Sort, Insertion Sort und Selection Sort. Geschrieben in Python unter Nutzung der <code>pygame</code> Bibliothek.
 
